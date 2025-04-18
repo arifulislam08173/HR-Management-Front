@@ -1,4 +1,4 @@
-# HRM Management Frontend
+# HR Management Frontend
 
 A clean, professional HRM user interface built with Next.js and Tailwind CSS. This frontend application streamlines employee management, attendance tracking, leave assignment, contract management, and shift requests for HR teams.
 
@@ -15,8 +15,8 @@ Sample screenshots demonstrating key UI flows are available in the `screenshots/
 ## Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USER/HRM-Management-Front.git
-cd HRM-Management-Front
+git clone https://github.com/YOUR-USER/HR-Management-Front.git
+cd HR-Management-Front
 
 # Install dependencies
 npm install     
