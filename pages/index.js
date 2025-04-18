@@ -39,7 +39,7 @@ const Home = ({ roles, userName }) => {
       <div className="row">
         <div className="col-md-12 text-center">
           <Typography variant="h1" color={colors.greenAccent[300]}>
-            Hello {userName}, Welcome to HR-Management!!!
+            Hello {userName}, Welcome to HR-Management!
           </Typography>
         </div>
       </div>
